@@ -1,0 +1,776 @@
+Neighborhood,City,State,med_2011,med_2014
+South Los Angeles,Los Angeles,CA,157300,251000.0
+Sherman Oaks,Los Angeles,CA,250100,300300.0
+Sunrise Manor,Las Vegas,NV,39000,47700.0
+Southeast Los Angeles,Los Angeles,CA,130200,209400.0
+Deer Valley,Phoenix,AZ,51900,72300.0
+Far North,Dallas,TX,62000,68000.0
+Hollywood,Los Angeles,CA,336600,404200.0
+Williamsburg,New York,NY,484700,718600.0
+Southeast Dallas,Dallas,TX,36600,43600.0
+Roosevelt,Fresno,CA,46200,51200.0
+Enterprise,Las Vegas,NV,88700,101900.0
+East Memphis-Colonial-Yorkshire,Memphis,TN,53100,50000.0
+Central City,Corpus Christi,TX,57000,53200.0
+Bullard,Fresno,CA,62900,74800.0
+Mid City,Los Angeles,CA,253000,377000.0
+West San Jose,San Jose,CA,294000,380600.0
+North Long Beach,Long Beach,CA,143100,199100.0
+Sun Valley,Los Angeles,CA,186800,265900.0
+South Scottsdale,Scottsdale,AZ,70900,114100.0
+Canoga Park,Los Angeles,CA,137000,178900.0
+Sylmar,Los Angeles,CA,195500,241400.0
+Downtown,San Jose,CA,306400,421900.0
+Pacoima,Los Angeles,CA,156800,208000.0
+San Pedro,Los Angeles,CA,254000,255200.0
+Willow Glen,San Jose,CA,340100,391200.0
+West Anaheim,Anaheim,CA,159600,206900.0
+Blossom Valley,San Jose,CA,221800,303200.0
+West Rogers Park,Chicago,IL,83800,67700.0
+Mira Mesa,San Diego,CA,121300,168100.0
+Midtown,Memphis,TN,50100,59900.0
+Cambrian Park,San Jose,CA,217100,322000.0
+Princess Anne,Virginia Beach,VA,167300,144200.0
+South Dorchester,Boston,MA,151600,185100.0
+Roxbury,Boston,MA,195500,225900.0
+Southeast Colorado Springs,Colorado Springs,CO,70700,77500.0
+East Colorado Springs,Colorado Springs,CO,96900,104100.0
+Green Run,Virginia Beach,VA,106100,118200.0
+Winnetka Heights,Dallas,TX,52000,54800.0
+Wilmington,Los Angeles,CA,194900,255700.0
+Mission,San Francisco,CA,499800,654300.0
+Northeast Colorado Springs,Colorado Springs,CO,77100,79700.0
+Central Colorado Springs,Colorado Springs,CO,97400,100600.0
+Gramercy,New York,NY,712000,800800.0
+Fresno High Roeding,Fresno,CA,55200,71500.0
+Rogers Park,Chicago,IL,110400,85200.0
+Downtown,Memphis,TN,127400,126200.0
+Kempsville,Virginia Beach,VA,101400,126700.0
+Little Havana,Miami,FL,57300,92700.0
+Lake Highlands,Dallas,TX,32200,37600.0
+Lake View,Chicago,IL,175100,170600.0
+Valencia,Santa Clarita,CA,176500,216000.0
+Greater Uptown,Houston,TX,115900,124700.0
+Highland Park,Los Angeles,CA,256300,379700.0
+University City,San Diego,CA,192800,242200.0
+Oak Lawn,Dallas,TX,114000,125200.0
+Rancho Penasquitos,San Diego,CA,132700,172800.0
+Winnetka,Los Angeles,CA,126200,162400.0
+Mid City West,Los Angeles,CA,336500,407600.0
+Brighton,Boston,MA,194400,235700.0
+Alameda - West Flagler,Miami,FL,65500,91000.0
+Memorial,Houston,TX,91600,107600.0
+Woodland Hills,Los Angeles,CA,192000,250700.0
+El Sereno,Los Angeles,CA,203300,279500.0
+Palms,Los Angeles,CA,300500,335400.0
+Carmel Valley,San Diego,CA,234400,301700.0
+Allapattah,Miami,FL,51400,71000.0
+Rancho Bernardo,San Diego,CA,149300,213100.0
+Greater Heights,Houston,TX,201700,246900.0
+Parkchester,New York,NY,105300,94100.0
+River Oaks-Kirby-Balmoral,Memphis,TN,43600,49100.0
+North Dallas,Dallas,TX,79800,82300.0
+East Boston,Boston,MA,172700,210300.0
+Mar Vista,Los Angeles,CA,320700,374300.0
+Coral Way,Miami,FL,107200,190500.0
+South End,Tacoma,WA,94500,92200.0
+Mid Wilshire,Los Angeles,CA,284000,328700.0
+North,Arlington,TX,46000,46700.0
+Studio City,Los Angeles,CA,328700,359800.0
+Crenshaw,Los Angeles,CA,202900,251800.0
+Lake View East,Chicago,IL,165300,165500.0
+North Park,San Diego,CA,143000,199200.0
+Silver Lake,Los Angeles,CA,397700,554500.0
+Venice,Los Angeles,CA,644200,894200.0
+Kalihi-Palama,Honolulu,HI,303300,299300.0
+Westchester,Los Angeles,CA,202900,202200.0
+Downtown,Los Angeles,CA,272300,398100.0
+Hyde Park,Los Angeles,CA,166300,274400.0
+South Loop,Chicago,IL,180000,201200.0
+Brentwood,Los Angeles,CA,404700,451500.0
+Mattapan,Boston,MA,193100,241700.0
+Southwest Colorado Springs,Colorado Springs,CO,107300,121500.0
+South Boston,Boston,MA,283000,348400.0
+Lincoln Heights,Los Angeles,CA,176400,280000.0
+Edgewater Beach,Chicago,IL,113100,106700.0
+North Central,Pasadena,CA,274500,351700.0
+Del Rey,Los Angeles,CA,428300,557600.0
+Hyde Park,Boston,MA,140700,155100.0
+M Streets,Dallas,TX,98300,99800.0
+Makiki-Lower Punchbowl-Tantalus,Honolulu,HI,263100,285800.0
+The Colony,Anaheim,CA,218900,316700.0
+Downtown,Jersey City,NJ,307000,358000.0
+Gold  Coast,Chicago,IL,214900,218200.0
+Columbia Heights,Washington,DC,289100,330900.0
+Wynnefield,Philadelphia,PA,88900,61700.0
+Hawaii Kai,Honolulu,HI,374200,419200.0
+La Jolla,San Diego,CA,365600,395000.0
+Sugar House,Salt Lake City,UT,177700,208400.0
+Roslindale,Boston,MA,193100,200700.0
+West Roxbury,Boston,MA,164300,173200.0
+Sawtelle,Los Angeles,CA,359800,416900.0
+Center City West,Philadelphia,PA,272400,300100.0
+Summerlin South,Las Vegas,NV,149100,200400.0
+Payne Phallen,Saint Paul,MN,66800,67200.0
+Clinton,New York,NY,763300,869100.0
+Pacific Beach,San Diego,CA,222400,269300.0
+Capitol Hill,Seattle,WA,230700,276600.0
+Gateway - Green Valley Ranch,Denver,CO,74300,82600.0
+Westwood,Cincinnati,OH,59400,55200.0
+Eastside-ENACT,Tacoma,WA,93600,94500.0
+Financial District,New York,NY,824900,901400.0
+Neartown - Montrose,Houston,TX,142900,150200.0
+South End,Boston,MA,412000,502200.0
+West End,Tacoma,WA,170600,166000.0
+Glassell Park,Los Angeles,CA,291200,391700.0
+Allston,Boston,MA,184900,236400.0
+North Valleys,Reno,NV,62600,71600.0
+Alexandria Wrest,Alexandria,VA,153800,175300.0
+Southeast Boise,Boise,ID,95800,127100.0
+Tierrasanta,San Diego,CA,156700,215200.0
+Jamaica Plain,Boston,MA,208800,243100.0
+Capitol Hill,Washington,DC,324200,365800.0
+Brickell,Miami,FL,192900,306900.0
+McCully-Moiliili,Honolulu,HI,285000,315500.0
+Center City East,Philadelphia,PA,245500,253100.0
+Eagle Rock,Los Angeles,CA,326800,445800.0
+Los Feliz,Los Angeles,CA,339400,408900.0
+Ravenswood,Chicago,IL,168100,154700.0
+Nevada-Lidgerwood,Spokane,WA,67900,64200.0
+North Linden,Columbus,OH,42100,35800.0
+Washington Avenue Coalition - Memorial Park,Houston,TX,181900,223700.0
+Northwest Colorado Springs,Colorado Springs,CO,111100,103800.0
+Forest Park,Springfield,MA,68500,71400.0
+Bernal Heights,San Francisco,CA,609900,816900.0
+Aliamanu-Salt Lake-Foster Village,Honolulu,HI,222200,232700.0
+University District,Seattle,WA,231000,247400.0
+North End,Saint Paul,MN,76300,72900.0
+South Boulevard-Park Row Historic,Dallas,TX,115700,128400.0
+Landmark-Van Dom,Alexandria,VA,173800,190300.0
+San Ysidro,San Diego,CA,62500,98800.0
+Waikiki,Honolulu,HI,286500,347300.0
+Abbott Loop,Anchorage,AK,103100,99600.0
+South Tacoma,Tacoma,WA,92700,92400.0
+Woodbridge,Irvine,CA,286400,330900.0
+Highland,Saint Paul,MN,108100,119000.0
+North End,Tacoma,WA,161100,159800.0
+Northeast,Reno,NV,36800,42400.0
+Powellhurst Gilbert,Portland,OR,126200,136400.0
+West Town,Chicago,IL,226400,234800.0
+Liliha-Kapalama,Honolulu,HI,204300,257000.0
+Potomac West,Alexandria,VA,192900,192300.0
+Fenway,Boston,MA,274600,334800.0
+Linda Vista,San Diego,CA,139600,193500.0
+Liberty City,Miami,FL,51000,63100.0
+Manoa,Honolulu,HI,242500,295700.0
+Hazelwood,Portland,OR,116500,117300.0
+Sixteen Acres,Springfield,MA,94700,89400.0
+Northwest,Spokane,WA,87600,82000.0
+Sunland,Los Angeles,CA,252700,308800.0
+South,Pasadena,CA,282700,333500.0
+Fairmount-Spring Garden,Philadelphia,PA,207400,204100.0
+West Park,Irvine,CA,249000,310600.0
+Tujunga,Los Angeles,CA,199400,289500.0
+Near North,Chicago,IL,207000,238200.0
+Bayview,San Francisco,CA,360400,400700.0
+West Central,Pasadena,CA,335900,372600.0
+South Side,Toledo,OH,32100,34100.0
+Seminary Hill,Alexandria,VA,137300,163700.0
+Downtown,San Francisco,CA,406800,577100.0
+West Las Vegas,Las Vegas,NV,37400,50200.0
+Back Bay,Boston,MA,430800,518900.0
+Central,Tacoma,WA,116500,100600.0
+South of Market,San Francisco,CA,492600,702000.0
+Northwood,Irvine,CA,206600,285200.0
+Hellman,Long Beach,CA,118700,162200.0
+Scripps Ranch,San Diego,CA,163500,185100.0
+Diamond Head-Kapahulu-St. Louis,Honolulu,HI,359500,431700.0
+Lents,Portland,OR,121200,142100.0
+Hampden,Denver,CO,70800,75000.0
+Cal Young,Eugene,OR,121500,113400.0
+Wynwood - Edgewater,Miami,FL,154300,270200.0
+Elkhorn,Omaha,NE,367500,391800.0
+Heartland Village,New York,NY,201300,199300.0
+West Price HIll,Cincinnati,OH,50900,45200.0
+Okolona,Louisville,KY,102100,109000.0
+East Tampa,Tampa,FL,30500,36700.0
+Petworth,Washington,DC,178900,208700.0
+Pacific Heights,San Francisco,CA,636900,812000.0
+Hyde Park,Chicago,IL,115500,97800.0
+Nob Hill,San Francisco,CA,567700,736100.0
+Bucktown,Chicago,IL,227200,248200.0
+"Broadmoor, Anderson Island, Shreve Isle.",Shreveport,LA,78300,89000.0
+Downtown,Stamford,CT,167100,167100.0
+Magnolia,Seattle,WA,176500,190700.0
+Nuuanu-Punchbowl,Honolulu,HI,301700,331000.0
+Mount Washington,Los Angeles,CA,313000,431100.0
+Ala Moana-Kakaako,Honolulu,HI,342700,379500.0
+Kenmore,Boston,MA,257700,340800.0
+Dayton's Bluff,Saint Paul,MN,63700,66500.0
+Old Colorado City,Colorado Springs,CO,105000,116400.0
+South Weymouth,Weymouth,MA,136800,137600.0
+Mission Hill,Boston,MA,242500,290400.0
+Noe Valley,San Francisco,CA,655700,809100.0
+Downtown,Houston,TX,155100,193800.0
+Midtown,Atlanta,GA,139100,149300.0
+Ellet,Akron,OH,40200,43200.0
+Charlestown,Boston,MA,339000,405900.0
+Logan Circle,Washington,DC,377000,434200.0
+Greater Avenues,Salt Lake City,UT,156300,164500.0
+Adams Morgan,Washington,DC,327700,367400.0
+Bay View,Milwaukee,WI,121200,111400.0
+Seatack,Virginia Beach,VA,135400,132100.0
+Kenmore,Akron,OH,44300,39500.0
+University Village - Little Italy,Chicago,IL,185300,205200.0
+Washington Highlands,Washington,DC,125400,207500.0
+Fishtown,Philadelphia,PA,258500,238100.0
+Summit-University,Saint Paul,MN,128900,126600.0
+Greenwood,Seattle,WA,177200,204300.0
+Playa Del Rey,Los Angeles,CA,285800,342100.0
+Montavilla,Portland,OR,167800,198000.0
+Wallingford,Seattle,WA,265100,316100.0
+CUF,Cincinnati,OH,46300,51700.0
+University Place,Houston,TX,122100,129800.0
+Westwood,Denver,CO,87300,96900.0
+Desert Shores,Las Vegas,NV,42600,60000.0
+O'Hare,Chicago,IL,83600,71400.0
+West University,Austin,TX,149300,148100.0
+Centerville,Fremont,CA,138600,242400.0
+Oleander Sunset,Bakersfield,CA,44200,55200.0
+West Side,Saint Paul,MN,88600,82000.0
+Gandy-Sun Bay South,Tampa,FL,70700,91400.0
+East Side,Long Beach,CA,180500,212200.0
+West Colorado Springs,Colorado Springs,CO,111200,112100.0
+Thomas Dale,Saint Paul,MN,64000,70900.0
+Traffic Circle,Long Beach,CA,192800,235100.0
+East Weymouth,Weymouth,MA,159800,173400.0
+Capitol Hill,Denver,CO,118100,136800.0
+Flamingo Lummus,Miami Beach,FL,157100,244200.0
+New Tacoma,Tacoma,WA,194400,154800.0
+Bluffview,Dallas,TX,95000,103600.0
+Dupont Circle,Washington,DC,339100,380700.0
+Poplar Grove,Salt Lake City,UT,107200,121600.0
+Sixteenth Street Heights,Washington,DC,194400,258100.0
+Lincoln Park,Chicago,IL,220700,232500.0
+Hampden South,Denver,CO,67400,66300.0
+Russian Hill,San Francisco,CA,681400,873200.0
+St.Johns,Portland,OR,152200,180300.0
+Lincoln Heights,Spokane,WA,84400,82400.0
+Hillcrest,San Diego,CA,208800,292600.0
+Central Weymouth,Weymouth,MA,131200,137800.0
+Near West Side,Chicago,IL,216500,234700.0
+Shadyside,Pittsburgh,PA,108300,115800.0
+Georgetown,Washington,DC,430300,474300.0
+Beverly Glen,Los Angeles,CA,670600,853200.0
+Downtown,Miami,FL,201200,322200.0
+Afton Oaks - River Oaks Area,Houston,TX,155100,191700.0
+Whittier,Minneapolis,MN,76200,66900.0
+Northwest,Portland,OR,221700,247400.0
+City Center,Glendale,CA,198600,244200.0
+Cove - East Side,Stamford,CT,149600,129400.0
+Hayes Valley,San Francisco,CA,521700,665100.0
+Downtown,Atlanta,GA,98500,88900.0
+"Caddo Heights, South Highlands",Shreveport,LA,48000,55100.0
+Downtown,Honolulu,HI,271800,312600.0
+Cully,Portland,OR,168400,207900.0
+Downtown,Long Beach,CA,158800,206400.0
+Windy Hill,Jacksonville,FL,57300,65600.0
+Marina,San Francisco,CA,601400,747300.0
+Foggy Bottom,Washington,DC,309500,319400.0
+Brentwood-Darlington,Portland,OR,130700,147500.0
+Washington Virginia Vale,Denver,CO,79000,94500.0
+Mid-Cambridge,Cambridge,MA,298000,364600.0
+West Side,Stamford,CT,202000,184300.0
+Glenbrook,Stamford,CT,165900,140600.0
+South Lakes Dr - Soapstone Dr,Reston,VA,161100,193800.0
+Hyde Park,Cincinnati,OH,83700,70500.0
+Van Ness - Civic Center,San Francisco,CA,428000,571400.0
+Five Points,Denver,CO,202600,240800.0
+Riverside,Cambridge,MA,339000,407400.0
+Ocean Beach,San Diego,CA,354300,424900.0
+South End,Hartford,CT,71000,69300.0
+West Los Angeles,Los Angeles,CA,339700,404200.0
+Downtown,Bellevue,WA,316800,378300.0
+East Price Hill,Cincinnati,OH,38700,42400.0
+Belmont Heights,Long Beach,CA,218700,263900.0
+Chevy Chase,Washington,DC,271300,285900.0
+Cambridgeport,Cambridge,MA,298500,360700.0
+Windsor,Denver,CO,61800,68800.0
+Park West,Chicago,IL,197200,196000.0
+Spenard,Anchorage,AK,119700,126400.0
+Downtown,Portland,OR,204300,228100.0
+North Cambridge,Cambridge,MA,287900,342600.0
+Lowry Park Central,Tampa,FL,44000,49100.0
+Turn of River,Stamford,CT,315200,297700.0
+North Hill,Spokane,WA,70500,72700.0
+Fremont,Seattle,WA,201800,225100.0
+Schuylkill Southwest,Philadelphia,PA,291600,324500.0
+Overlake,Bellevue,WA,132800,127600.0
+South Beach,San Francisco,CA,586600,805100.0
+Riverwest,Milwaukee,WI,115500,116900.0
+Ballston-Virginia Square,Arlington,VA,341500,373700.0
+Amber Hills,San Bernardino,CA,48700,53500.0
+Russian Jack Park,Anchorage,AK,102600,101100.0
+North-East Coconut Grove,Miami,FL,119900,185700.0
+Ravenna,Seattle,WA,257300,301600.0
+Mercury Central,Hampton,VA,61200,54900.0
+Manayunk,Philadelphia,PA,211800,200500.0
+East Central,Spokane,WA,71100,65800.0
+Lower East Side,Milwaukee,WI,148400,143200.0
+North Beacon Hill,Seattle,WA,187100,182100.0
+Shawnee,Louisville,KY,49800,56200.0
+First Hill,Seattle,WA,200500,219400.0
+Lower Pacific Heights,San Francisco,CA,443500,593700.0
+Sulphur Springs,Tampa,FL,32800,39900.0
+Buena Park,Chicago,IL,149100,139600.0
+Mount Pleasant,Washington,DC,294600,317800.0
+The Loop,Chicago,IL,190600,207500.0
+North Ridge-Rosemont,Alexandria,VA,237600,235100.0
+Aurora Highlands,Aurora,CO,42500,51600.0
+Eureka Valley - Dolores Heights - Castro,San Francisco,CA,602500,818500.0
+Aurora Highlands,Arlington,VA,322700,350300.0
+North Hyde Park,Tampa,FL,106500,114300.0
+Admiral,Seattle,WA,202100,183800.0
+Battery Park,New York,NY,489500,545900.0
+Peabody,Cambridge,MA,309100,381300.0
+Radnor-Ft Myer Heights,Arlington,VA,353400,386000.0
+Myers Park,Charlotte,NC,163200,173300.0
+Western Addition,San Francisco,CA,368000,606000.0
+Speer,Denver,CO,122500,134200.0
+East Village,Long Beach,CA,133100,178600.0
+Maple Leaf,Seattle,WA,214800,243000.0
+Sellwood-Moreland,Portland,OR,256200,314200.0
+Olde Torrance,Torrance,CA,235100,248300.0
+Potrero Hill,San Francisco,CA,487100,652800.0
+Old Town,Chicago,IL,178600,195700.0
+Normal Heights,San Diego,CA,104500,161100.0
+West 7th,Saint Paul,MN,88700,84700.0
+North Oakland,Pittsburgh,PA,102800,102600.0
+North Panhandle,San Francisco,CA,484000,612100.0
+East Colfax,Denver,CO,104700,117900.0
+College East,San Diego,CA,80000,130300.0
+Bridle Trails,Bellevue,WA,123900,120500.0
+Sabre Springs,San Diego,CA,126600,181500.0
+Congress Park,Denver,CO,109300,129400.0
+University Area,Anchorage,AK,117100,114100.0
+Mission Valley East,San Diego,CA,133400,213400.0
+Mission Bay Park,San Diego,CA,253800,310500.0
+Kingman Park,Washington,DC,181300,248500.0
+Kingsgate,Kirkland,WA,125900,118200.0
+North End,Boston,MA,362400,420400.0
+Fairlington-Shirlington,Arlington,VA,355200,365700.0
+North Queen Anne,Seattle,WA,182300,202200.0
+Montclaire South,Charlotte,NC,49800,53200.0
+Old Louisville,Louisville,KY,70300,84300.0
+College Hill,Providence,RI,208600,203000.0
+Warm Springs,Fremont,CA,186700,261300.0
+Sunset Hills,Reston,VA,230200,299900.0
+Verdugo Viejo,Glendale,CA,215800,265300.0
+West Colfax,Denver,CO,122200,153900.0
+Belmont,Dayton,OH,44600,41000.0
+Sunnyside,Denver,CO,179400,232600.0
+East Cambridge,Cambridge,MA,374400,451300.0
+American University Park,Washington,DC,420500,461900.0
+Wrightwood Neighbors,Chicago,IL,222900,236800.0
+Concordia,Portland,OR,223200,269900.0
+Central City,Salt Lake City,UT,129500,140900.0
+Ohio City - West Side,Cleveland,OH,116800,80600.0
+University,Denver,CO,196100,243800.0
+Mustang-Padre Island,Corpus Christi,TX,93200,105600.0
+East Bench,Salt Lake City,UT,216500,214400.0
+Shaw,Washington,DC,352200,398800.0
+Belltown,Seattle,WA,274900,313200.0
+Beacon Hill,Boston,MA,366400,458300.0
+Chinatown,Boston,MA,441200,541400.0
+North End,Boise,ID,159200,188000.0
+Southwest Waterfront,Washington,DC,228900,263500.0
+Douglas Park,Arlington,VA,313700,321100.0
+Woodstock,Portland,OR,198900,232200.0
+Phinney Ridge,Seattle,WA,282400,326800.0
+Cleveland Park,Washington,DC,316300,330300.0
+Villa Park,Denver,CO,99200,115300.0
+Isle of Normandy,Miami Beach,FL,76700,139500.0
+Bear Valley,Denver,CO,64500,71700.0
+West Highland,Denver,CO,216400,271300.0
+Emerson-Garfield,Spokane,WA,66700,65100.0
+Madisonville,Cincinnati,OH,58200,52200.0
+Golden Hill,San Diego,CA,96300,172700.0
+Highland,Denver,CO,196100,248600.0
+West Cambridge,Cambridge,MA,343100,398400.0
+Rossmoyne,Glendale,CA,211700,260300.0
+Green Lake,Seattle,WA,280500,319700.0
+Riverside,Jacksonville,FL,132900,145100.0
+Highland Park,Des Moines,IA,59600,61300.0
+Northeast Macfarlane,Tampa,FL,55300,56500.0
+Haller Lake,Seattle,WA,147200,133800.0
+Fort Logan,Denver,CO,88600,80600.0
+Riverbend,Columbus,OH,50900,49600.0
+Cow Hollow,San Francisco,CA,648800,817300.0
+Park West,San Diego,CA,271900,359300.0
+Manor Park,Washington,DC,177200,
+Bitter Lake,Seattle,WA,165500,123500.0
+Near Northeast,Washington,DC,286300,338400.0
+Grantville,San Diego,CA,116700,161200.0
+Cliff-Cannon,Spokane,WA,84600,71200.0
+Berkeley,Denver,CO,201200,250200.0
+Lowry Field,Denver,CO,156700,188800.0
+Morningside - Lenox Park,Atlanta,GA,120800,121700.0
+Vose,Beaverton,OR,80900,73100.0
+Beechmont,Louisville,KY,85400,82900.0
+Downtown,Saint Paul,MN,115600,103100.0
+Creston-Kenilworth,Portland,OR,212600,234400.0
+East Village,San Diego,CA,287000,374000.0
+Capitol Hill,Salt Lake City,UT,176800,182200.0
+Carriage Place,Aurora,CO,45700,59000.0
+South Juanita,Kirkland,WA,137200,139500.0
+Cheesman Park,Denver,CO,128400,144100.0
+Clarendon-Courthouse,Arlington,VA,381200,439800.0
+Loring Park,Minneapolis,MN,135200,141300.0
+River North,Chicago,IL,225500,249100.0
+Loyal Heights,Seattle,WA,257300,346000.0
+Downtown,New York,NY,476000,528900.0
+Kenton,Portland,OR,158000,189000.0
+Minor,Seattle,WA,224600,243800.0
+Expo Park,Aurora,CO,42100,47200.0
+Linden Hills,Minneapolis,MN,166100,179800.0
+Bemiss,Spokane,WA,73400,64100.0
+Glover Park,Washington,DC,271300,284700.0
+Telegraph Hill,San Francisco,CA,616500,805700.0
+Old Town Triangle,Chicago,IL,230200,243500.0
+Forest Hills,Tampa,FL,56700,60500.0
+Family Acres,Lincoln,NE,290500,312600.0
+Northside,Cincinnati,OH,42300,55600.0
+Multnomah,Portland,OR,196900,239600.0
+Somerset,Columbus,OH,45900,36300.0
+University Park,Denver,CO,123100,136200.0
+Ballard,Seattle,WA,230400,281800.0
+Mount Scott,Portland,OR,151900,183500.0
+Foster-Powell,Portland,OR,151100,185900.0
+Wilburton,Bellevue,WA,186800,212000.0
+Starmount Forest,Charlotte,NC,46500,57200.0
+Downtown,Austin,TX,261100,339900.0
+Virginia Highland,Atlanta,GA,133500,124900.0
+Sloan Lake,Denver,CO,209700,265600.0
+Old Town,Alexandria,VA,341800,353200.0
+Dayton Triangle,Aurora,CO,71400,88000.0
+Fairview,Anchorage,AK,131800,132700.0
+Alki,Seattle,WA,274400,311500.0
+Springdale,Stamford,CT,170900,157400.0
+Downtown,Seattle,WA,381000,446500.0
+Corbett-Terwilliger-Lair Hill,Portland,OR,230700,250500.0
+Old Seminole Heights,Tampa,FL,45600,57700.0
+Margate Park,Chicago,IL,98300,92500.0
+Metro Center,Springfield,MA,67000,72700.0
+Crescent Hill,Louisville,KY,154900,190400.0
+East Queen Anne,Seattle,WA,230500,260600.0
+Taylor Berry,Louisville,KY,55500,54700.0
+Washington Park,Denver,CO,173700,188800.0
+North College Park,Seattle,WA,150400,139700.0
+Hale,Denver,CO,74500,89300.0
+Columbia Heights West,Arlington,VA,163900,176100.0
+Teralta East,San Diego,CA,75200,114800.0
+Howe,Minneapolis,MN,124700,136100.0
+Victoria Park,Fort Lauderdale,FL,91200,128500.0
+Mount Vernon Square,Washington,DC,363700,430800.0
+Over-The-Rhine,Cincinnati,OH,128000,152000.0
+Dilworth,Charlotte,NC,142200,160900.0
+California Heights,Long Beach,CA,110800,139900.0
+South Dennis,Dennis,MA,109800,117800.0
+Southside Flats,Pittsburgh,PA,152900,163200.0
+Piedmont Avenue,Oakland,CA,247600,256600.0
+Walnut Hills,Cincinnati,OH,112700,101500.0
+Bellmont Hillsboro,Nashville,TN,203900,238400.0
+Standish,Minneapolis,MN,114400,118300.0
+College View - South Platte,Denver,CO,67400,73400.0
+Sunset Hill,Seattle,WA,331900,354300.0
+Arbor Lodge,Portland,OR,188500,225700.0
+University Hill,Boulder,CO,185000,204300.0
+Montrose Verdugo City,Glendale,CA,219200,251300.0
+Gatewood,Seattle,WA,179100,209900.0
+Goose Hollow,Portland,OR,194600,236500.0
+Elyria Swansea,Denver,CO,80400,98600.0
+Washington Park West,Denver,CO,210700,247000.0
+College Downs,Charlotte,NC,63900,58500.0
+Downtown,Columbus,OH,96300,102600.0
+Overlook,Portland,OR,196100,242900.0
+Roseway,Portland,OR,178400,221500.0
+The Museum District,Richmond,VA,144900,147600.0
+King,Portland,OR,214500,269800.0
+North Rose Hill,Kirkland,WA,127900,124900.0
+Lowry Hill East,Minneapolis,MN,89200,76600.0
+The Port - Area 4,Cambridge,MA,306400,382400.0
+Lincoln Park,Denver,CO,144000,170900.0
+Ingleside Heights,San Francisco,CA,264700,384800.0
+Forest Hills,Washington,DC,269500,305100.0
+Barnum,Denver,CO,92700,108600.0
+Central Downtown,Lexington,KY,116300,116400.0
+Chickasaw,Louisville,KY,48800,55600.0
+Fairpark,Salt Lake City,UT,110600,144200.0
+Penn Wynne,Wynnewood,PA,94300,100200.0
+La Jolla Village,San Diego,CA,237200,285600.0
+Columbia Heghts,Arlington,VA,271700,293500.0
+North Towne,Toledo,OH,45800,52900.0
+Junction,Seattle,WA,230000,251100.0
+Lynnhaven Shores,Virginia Beach,VA,162200,156700.0
+West Queen Anne,Seattle,WA,223700,238200.0
+Ballast Point,Tampa,FL,72100,90100.0
+Old West Tampa,Tampa,FL,56600,63600.0
+Johnston Rd.-McAlpine,Charlotte,NC,48500,52200.0
+North Capitol Hill,Denver,CO,185700,199900.0
+Marshall Heights,Washington,DC,135800,164000.0
+Goldsmith,Denver,CO,62700,70200.0
+Bayshore,Miami Beach,FL,249700,362200.0
+Pearl District,Portland,OR,266300,320000.0
+Branford Center,Branford,CT,95300,81100.0
+Side Creek,Aurora,CO,52700,71600.0
+Smith Hill,Providence,RI,176900,139900.0
+Southwest Hills,Portland,OR,438200,547100.0
+Arlington Ridge,Arlington,VA,252500,262100.0
+Downtown West,Minneapolis,MN,108000,117300.0
+Meadow Hills,Aurora,CO,64900,80700.0
+Century City,Los Angeles,CA,417800,550500.0
+Highline Villages,Aurora,CO,49400,57400.0
+West End,Boston,MA,364800,426000.0
+Cherry Creek,Denver,CO,182400,233000.0
+Eastlake,Seattle,WA,245700,293100.0
+Southside,Louisville,KY,87900,87200.0
+West Loop Gate,Chicago,IL,196200,216100.0
+Totem Lake,Kirkland,WA,131000,124400.0
+Hiawatha,Minneapolis,MN,126200,131700.0
+Wexford-Thornapple,Columbus,OH,56600,57500.0
+Montclair,Denver,CO,132500,145600.0
+Platt Park,Denver,CO,229300,280200.0
+Rose Village,Vancouver,WA,90500,96800.0
+City Center North,Aurora,CO,43300,48100.0
+Sterling Hills,Aurora,CO,82800,97900.0
+Buckingham,Arlington,VA,216900,236600.0
+Braddock Road Metro,Alexandria,VA,313200,365100.0
+City Center,Aurora,CO,41000,44900.0
+Folwell,Minneapolis,MN,67600,73000.0
+Pinehurst,Seattle,WA,165100,145800.0
+Edgewood,Washington,DC,169100,197000.0
+Lower Queen Anne,Seattle,WA,235800,261200.0
+East Ridge - Ptarmigan Park,Aurora,CO,56900,60600.0
+Woodley Park,Washington,DC,357600,381200.0
+Near East Side,Chicago,IL,301200,357700.0
+Marble Cliff Crossing,Columbus,OH,74200,59900.0
+Heather Gardens,Aurora,CO,67400,93600.0
+Columbia Forest,Arlington,VA,156600,160800.0
+Galt Mile,Fort Lauderdale,FL,188500,240800.0
+Business District,Irvine,CA,252200,344100.0
+Leschi,Seattle,WA,250100,306800.0
+Lyon Park,Arlington,VA,263500,273600.0
+Coral Ridge Country Club,Fort Lauderdale,FL,79900,109700.0
+Fox Point,Providence,RI,164400,158500.0
+The North End,Virginia Beach,VA,226600,222700.0
+Bloomingdale,Washington,DC,214400,290000.0
+Bluff Heights,Long Beach,CA,189000,232700.0
+North Central,San Mateo,CA,262300,382700.0
+Juneau Town,Milwaukee,WI,144100,126600.0
+Jacobs,Louisville,KY,55800,52600.0
+Marina,San Diego,CA,333000,418100.0
+Fairground,Des Moines,IA,51700,56800.0
+Whittier,Boulder,CO,166700,195700.0
+City Park West,Denver,CO,129500,160700.0
+Whittier,Denver,CO,172000,210900.0
+Fort Sanders,Knoxville,TN,37300,43200.0
+Yerba Buena,San Francisco,CA,492600,728800.0
+Baker,Denver,CO,169800,195100.0
+Barclay Downs,Charlotte,NC,148200,142200.0
+Clifton Heights,Louisville,KY,99700,115300.0
+Summer Valley,Aurora,CO,108800,133600.0
+Downtown,Lincoln,NE,98300,98000.0
+Iroquois,Louisville,KY,69000,65800.0
+South Addition,Anchorage,AK,158600,157800.0
+Prescott,Oakland,CA,296200,345900.0
+Cole,Denver,CO,127600,155100.0
+Marina Area,Long Beach,CA,267800,382400.0
+Westlake,Seattle,WA,220900,247500.0
+North Loop,Minneapolis,MN,194600,214000.0
+Southside Slopes,Pittsburgh,PA,54900,60300.0
+Seaview,Seattle,WA,240600,270400.0
+Victorian Village,Columbus,OH,125800,145800.0
+SableRidge,Aurora,CO,41200,49300.0
+Regency,Jacksonville,FL,40100,38700.0
+Mission Beach,San Diego,CA,601600,631800.0
+Cotswold,Charlotte,NC,75200,75000.0
+Wesley Heights,Washington,DC,263200,253300.0
+Harbour Island,Tampa,FL,126000,158300.0
+Uptown,Seattle,WA,229400,262600.0
+Madison Park,Seattle,WA,284100,317200.0
+Jefferson Park,Charlottesville,VA,131400,119100.0
+View Ridge,Seattle,WA,155900,156900.0
+Streeterville,Chicago,IL,299900,327200.0
+Union Station,Denver,CO,300300,335100.0
+East Merrimack,Merrimack,NH,101600,93000.0
+Rancho San Joaquin,Irvine,CA,402000,505000.0
+Belcaro,Denver,CO,223100,252600.0
+Elizabeth,Charlotte,NC,97700,115900.0
+City Center,Miami Beach,FL,185200,273000.0
+Belknap,Louisville,KY,202200,230400.0
+Peachtree Heights West,Atlanta,GA,111700,106700.0
+Schnitzelburg,Louisville,KY,89300,104600.0
+Cahuenga Pass,Los Angeles,CA,564500,710300.0
+Mission Hills,Henderson,NV,81200,95800.0
+Downtown,Washington,DC,363400,421500.0
+Minnehaha,Minneapolis,MN,119400,124800.0
+Deer Park,Louisville,KY,166000,188700.0
+Tollgate Overlook,Aurora,CO,41000,47500.0
+Sequoyah,Oakland,CA,194600,218800.0
+Wyandotte,Louisville,KY,55600,56800.0
+Central Beach Alliance,Fort Lauderdale,FL,141800,186100.0
+Audubon,Louisville,KY,117400,125300.0
+Sharon Woods,Charlotte,NC,69100,68100.0
+Regis,Denver,CO,171400,200600.0
+Village Shires,Northampton Township,PA,158600,143700.0
+South Louisville,Louisville,KY,49500,57200.0
+Park Duvalle,Louisville,KY,41500,45800.0
+El Dorado Park Estates,Long Beach,CA,171200,187400.0
+Fourth Ward,Charlotte,NC,177400,207300.0
+Hikes Point,Louisville,KY,137600,144000.0
+Germantown,Louisville,KY,79500,94300.0
+Stapleton,Denver,CO,152400,170300.0
+Centretech,Aurora,CO,42100,47800.0
+Cherokee Triangle,Louisville,KY,164000,197900.0
+Edgewood,Atlanta,GA,138900,140200.0
+Inman Park,Atlanta,GA,152600,161500.0
+Playa Vista,Los Angeles,CA,358900,421500.0
+Heather Ridge,Aurora,CO,70300,80500.0
+U Street Corridor,Washington,DC,397600,459300.0
+Globeville,Denver,CO,79400,102000.0
+North Delridge,Seattle,WA,191500,202500.0
+Central Business District,Denver,CO,216900,265900.0
+Fulton River District,Chicago,IL,218000,236000.0
+Eisenhower East,Alexandria,VA,354400,370300.0
+Central Business District,Orlando,FL,59600,108900.0
+Moss Bay,Kirkland,WA,275300,305600.0
+Town Center,Reston,VA,130000,162000.0
+Central Business District,Pittsburgh,PA,92300,117300.0
+Cathedral Heights,Washington,DC,281300,278600.0
+Central Business District - Downtown,Kansas City,MO,138400,156800.0
+Downtown,Salt Lake City,UT,201900,224100.0
+Sylvan Park,Nashville,TN,135600,169100.0
+Old Town-Chinatown,Portland,OR,163000,188400.0
+South Salt Creek,Lincoln,NE,50600,56800.0
+Northcrest,Columbus,OH,46800,51600.0
+Candler Park,Atlanta,GA,128000,123000.0
+West End,Washington,DC,447700,511700.0
+Navy Yard,Washington,DC,404800,485900.0
+Yankee Hill,Milwaukee,WI,180000,158200.0
+North Highland,Arlington,VA,267900,261100.0
+Downtown,Boston,MA,453100,575900.0
+Alamitos Heights,Long Beach,CA,193700,220200.0
+Indian Creek,Denver,CO,126100,129000.0
+Conway,Orlando,FL,30500,36900.0
+Bluff Park,Long Beach,CA,208200,274600.0
+East Isles,Minneapolis,MN,109400,126600.0
+Keewaydin,Minneapolis,MN,92400,107600.0
+City Park,Denver,CO,208400,239400.0
+Chinatown,Oakland,CA,245200,278400.0
+Esther Short,Vancouver,WA,138000,134900.0
+Wakefield,Washington,DC,275900,300500.0
+The Palisades,Washington,DC,252300,248300.0
+Highlands Douglas,Louisville,KY,183500,212200.0
+Park East,Sarasota,FL,40800,50700.0
+Clearwater Beach Association,Clearwater,FL,172400,191300.0
+Waverly Hills,Arlington,VA,218700,231800.0
+North Campus,Columbus,OH,67100,74800.0
+Cedar-Isles-Dean,Minneapolis,MN,195800,198600.0
+Shelby Park,Louisville,KY,54100,66200.0
+Ashbrook-Clawson Village,Charlotte,NC,115700,94200.0
+Guide Meridian,Bellingham,WA,124700,119000.0
+First Ward,Charlotte,NC,133300,148000.0
+Dennis Port,Dennis,MA,145400,127800.0
+The Strip,Las Vegas,NV,214300,251600.0
+Mission Valley West,San Diego,CA,189000,228900.0
+Morris Park,Minneapolis,MN,107200,113900.0
+North Rosslyn,Arlington,VA,379600,428700.0
+Saint Joseph,Louisville,KY,84200,94100.0
+Denny Triangle,Seattle,WA,310400,396100.0
+Buena Vista Park,San Francisco,CA,483400,657100.0
+Clifton,Louisville,KY,113200,129600.0
+Downtown Des Moines,Des Moines,IA,89800,80300.0
+Smoketown Jackson,Louisville,KY,52600,67000.0
+Downtown Charlotte,Charlotte,NC,189600,228700.0
+Brightwood Park,Washington,DC,151400,174600.0
+Colonial Village,Arlington,VA,277700,292200.0
+White Bridge,Nashville,TN,73300,86900.0
+Tyler Park,Louisville,KY,144300,164200.0
+Livingston - McNaughten,Columbus,OH,35200,33100.0
+Wilder Park,Louisville,KY,64200,68700.0
+Mapleton Hill,Boulder,CO,170600,189600.0
+Kalorama,Washington,DC,377400,429500.0
+Hazelwood,Louisville,KY,50000,62400.0
+Produce & Waterfront,Oakland,CA,209100,314200.0
+Brownsboro Zorn,Louisville,KY,154100,167900.0
+Carver City,Tampa,FL,55200,76700.0
+Diamond Heights,San Francisco,CA,299600,420100.0
+Dearborn Park,Chicago,IL,195500,192000.0
+East Aurora,Boulder,CO,103200,114300.0
+Overland,Denver,CO,127200,155000.0
+Third Ward,Charlotte,NC,157600,155900.0
+Lake View,Kirkland,WA,250400,275400.0
+Judiciary Square,Washington,DC,414700,473500.0
+Bonnycastle,Louisville,KY,181800,220100.0
+Castleberry Hill,Atlanta,GA,131100,114700.0
+South Eola,Orlando,FL,125200,195100.0
+German Village Commission,Columbus,OH,166200,193300.0
+Channel District,Tampa,FL,124000,174900.0
+Fifeville,Charlottesville,VA,148000,158800.0
+Printers Row,Chicago,IL,197500,206600.0
+Downtown,West Palm Beach,FL,118400,188700.0
+Rock Creek Lexington Road,Louisville,KY,190800,224500.0
+Riverfront,Philadelphia,PA,267400,292000.0
+Central Cocoanut,Sarasota,FL,160500,206800.0
+Ridgedale Park,Atlanta,GA,122900,113400.0
+Central College,Columbus,OH,74200,67300.0
+Hawthorne,Louisville,KY,145300,169500.0
+Atlantic Station,Atlanta,GA,99400,139400.0
+Belle Isle,Miami Beach,FL,222800,336600.0
+Central Waterfront - Dogpatch,San Francisco,CA,534900,741600.0
+Ansley Park,Atlanta,GA,133200,137500.0
+Fremont Park,Glendale,CA,181500,225300.0
+Heritage Eagle Bend,Aurora,CO,321700,368900.0
+Tampa-Bayshore Gardens,Tampa,FL,133800,131900.0
+Poplar Level,Louisville,KY,123500,136600.0
+Buckhead Village,Atlanta,GA,134600,150200.0
+Old Town North,Alexandria,VA,266300,293200.0
+McLean Gardens,Washington,DC,345000,353700.0
+Civic Center,Denver,CO,260300,302200.0
+Camp Taylor,Louisville,KY,91200,100900.0
+South Orange,Orlando,FL,68200,77300.0
+Prestonia,Louisville,KY,97500,113300.0
+Downtown,Tampa,FL,147500,196700.0
+Fairfax Village,Washington,DC,120600,152800.0
+Hayden Island,Portland,OR,128800,156400.0
+Highlands,Louisville,KY,113100,131700.0
+Merriwether,Louisville,KY,74200,85900.0
+Bethlehem,Augusta,GA,34100,31300.0
+Downtown Knoxville,Knoxville,TN,161300,148800.0
+Chantilly,Charlotte,NC,73700,78800.0
+Penn Quarter,Washington,DC,391500,439100.0
+Gardiner Lane,Louisville,KY,192300,219300.0
+Sunrise Intracoastal,Fort Lauderdale,FL,125900,184400.0
+Girdwood,Anchorage,AK,215300,190000.0
+Northeast,Alexandria,VA,225300,223200.0
+Lido Key,Sarasota,FL,223700,249200.0
+Cabbagetown,Atlanta,GA,125100,157700.0
+Historic Third Ward,Milwaukee,WI,208700,221100.0
+New Horizons South Bay,Torrance,CA,304400,343200.0
+Germantown,Nashville,TN,151500,182500.0
+North Golf Estates,Fort Lauderdale,FL,58000,74500.0
+Harbour Isles,Fort Lauderdale,FL,306900,351500.0
+Bay Colony Club,Fort Lauderdale,FL,82200,122100.0
+Keewaydin,Boulder,CO,133700,151800.0
+Hillcrest,Hollywood,FL,40100,56000.0
+North Weymouth,Weymouth,MA,177300,181300.0
+Ponderosa,Sunnyvale,CA,270300,379700.0
+Sunset,Renton,WA,111000,101100.0
+Emerald Hills,Hollywood,FL,86200,108900.0
+Hollywood Lakes,Hollywood,FL,63100,73100.0
+North Shore,Miami Beach,FL,110700,194700.0
+Old City,Philadelphia,PA,269800,269900.0
+South Central Beach,Hollywood,FL,136000,205500.0
+Oceanfront,Miami Beach,FL,228000,318700.0
+Nautilus,Miami Beach,FL,174300,226900.0
+South Pointe,Miami Beach,FL,255200,344800.0

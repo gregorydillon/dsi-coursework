@@ -1,0 +1,55 @@
+Math Assessment
+
+Refer to `math_assessment.pdf` for the questions. Please type your answers under
+each prompt in this document.
+
+
+1. Partial derivative of y with respect to x
+
+d/dx = -e^(-x) * (x - 1) * (sin y)
+
+2. Xy
+
+[14, 10].T
+
+
+3. Is X invertible? If so, give the inverse; if not, explain why not.
+
+Yes it is, it's inverse is [[1.5 -2]
+                            [-0.5, 1]]
+
+4. Rank of X
+
+2
+
+
+5. Sample mean
+
+3/5
+
+6. Sample variance
+
+3*((1-3/5))^2 + 2*((0-2/5)^2)
+
+.3
+
+
+7. Probability of data given fair coin
+
+This exact sequence can be found only 1 way, h,h,t,h,t equals:
+.5^5 = .03125
+
+8. Maximum likelihood probability
+
+p(1) = 3/5  (ie observed probability matches actual p of the coin)
+
+
+9. P(x=T | y=b)
+
+Apply bayes theorem
+
+P(y=b | x=t) * P(x=t) / P(y=b)
+
+.1 * .5 / .25
+
+=.2

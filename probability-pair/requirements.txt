@@ -1,0 +1,4 @@
+pylab
+numpy
+scipy
+pytest
