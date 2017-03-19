@@ -8,4 +8,4 @@ def dice(roll, die_sides):
 
     if roll <= die_sides:
         likelihood=1./die_sides
-return likelihood
+    return likelihood

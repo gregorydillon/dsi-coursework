@@ -123,27 +123,29 @@ def coin_solution():
 
 def coin_bonus():
     b = Bayes(biased_coin.prior.copy(), biased_coin.likelihood)
-    for i in range(250):
+    for i in range(10000):
         my_coin=Coin()
         b.update(my_coin.flip())
         if i == 2:
-            plt.subplot(2,3,2)
+            plt.subplot(2,3,1)
             b.plot()
         if i == 10:
-            plt.subplot(2,3,3)
+            plt.subplot(2,3,2)
             b.plot()
         if i == 50:
-            plt.subplot(2,3,4)
+            plt.subplot(2,3,3)
             b.plot()
         if i == 250:
-            plt.subplot(2,3,5)
+            plt.subplot(2,3,4)
             b.plot()
 
         # WE REJECT YOUR ORDINAL NATURE
-        if i == 1:
-            plt.subplot(2,3,1)
+        if i == 9999:
+            plt.subplot(2,3,5)
             b.plot()
 
+
+    plt.tight_layout()
     plt.show()
 
 
