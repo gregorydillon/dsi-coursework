@@ -62,12 +62,13 @@ def part_1():
     """
 
     # computing power
-    alpha = .05
+    alpha = .025
     critical_value = coke_null_dist.ppf(1 - alpha)
+    print critical_value
 
     pl.axvline(critical_value, color='y', alpha=.7, linestyle='--')
 
-    power = 1 - coke_exp_dist.cdf(critical_value)
+    power = coke_exp_dist.cdf(critical_value)
     power_lin_sp = np.linspace(critical_value, null_mean + (4 * std_er))
     pl.fill_between(power_lin_sp, coke_exp_dist.pdf(power_lin_sp))
 
@@ -79,6 +80,7 @@ def part_1():
     the null hyp is likely, but our study is underpowered -- we have reason to be skeptical
     of our findings.
     """
+    print power
     pl.show()
 
 
@@ -174,4 +176,5 @@ def exploring_alpha():
 
 
 if __name__ == '__main__':
-    exploring_alpha()
+    part_1()
+    # exploring_alpha()
