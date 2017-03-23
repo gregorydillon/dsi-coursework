@@ -12,7 +12,7 @@ CREDIT_CARD.columns
 
 def exp_plots(data):
     fig, ax_list = plt.subplots()
-    scatter_matrix(data, alpha=.2, figsize=(6, 6), diagonal='kde', ax=ax_list)
+    scatter_matrix(data, alpha=.2, figsize=(12, 12), diagonal='kde', ax=ax_list)
     plt.tight_layout()
 
     fig, ax_list = plt.subplots()
