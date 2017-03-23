@@ -28,7 +28,7 @@ def main():
     print 'RMSE for training set ', rmse(y_train, train_predicted), np.sqrt(mean_squared_error(y_train, train_predicted))
     print 'RMSE for test set ', rmse(y_test, test_predicted), np.sqrt(mean_squared_error(y_test, test_predicted))
 
-    print "Cross Validation Score: " + str(cross_validate(X, y, k=30))
+    print "Cross Validation Score: " + str(cross_validate(X, y, k=5))
 
 
 def cross_validate(X, y, k=5):
