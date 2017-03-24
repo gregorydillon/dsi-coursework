@@ -153,7 +153,7 @@ def add_column(arr, col):
     E.g.  [[1, 2], [3, 4]], [5, 6]  ->  [[1, 2, 5], [3, 4, 6]]
     '''
     # Not sure why this not working :(
-    return np.c_[arr, col]
+    return np.column_stack((arr, col))
 
 
 def size_of_multiply(A, B):
