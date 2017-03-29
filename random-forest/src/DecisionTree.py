@@ -10,12 +10,13 @@ class DecisionTree(object):
     A decision tree class.
     '''
 
-    def __init__(self, impurity_criterion='entropy'):
+    def __init__(self, impurity_criterion='entropy', num_features=None):
         '''
         Initialize an empty DecisionTree.
         '''
 
         self.root = None  # root Node
+        self.num_features = num_features
         self.feature_names = None  # string names of features (for interpreting
                                    # the tree)
         self.categorical = None  # Boolean array of whether variable is
@@ -175,6 +176,9 @@ class DecisionTree(object):
         >>> index, value, splits = self._choose_split_index(X, y)
         >>> X1, y1, X2, y2 = splits
         '''
+        if self.num_features is not None:
+            feature_indicies = np.random.choice(range(X.shape[1]), replace=False, size=self.num_features)
+            X = X[:, feature_indicies]
 
         split_index, split_value, splits = None, None, None
         max_gain = 0
