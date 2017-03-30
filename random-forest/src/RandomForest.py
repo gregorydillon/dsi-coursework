@@ -38,7 +38,7 @@ class RandomForest(object):
         forest = []
         valid_index_choices = range(len(X))
         for _ in range(num_trees):
-            sample_indicies = np.random.choice(valid_index_choices, num_samples)
+            sample_indicies = np.random.choice(valid_index_choices, num_samples, replace=True)
             sub_X = X[sample_indicies]
             sub_y = y[sample_indicies]
             tree = DecisionTree(impurity_criterion='entropy', num_features=num_features)
@@ -74,3 +74,4 @@ class RandomForest(object):
         '''
         predictions = self.predict(X)
         correctness = y == predictions
+        return float(sum(correctness)) / len(y)

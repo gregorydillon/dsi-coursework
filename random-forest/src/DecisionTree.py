@@ -1,4 +1,3 @@
-import pandas as pd
 import numpy as np
 import math
 from collections import Counter
@@ -176,13 +175,13 @@ class DecisionTree(object):
         >>> index, value, splits = self._choose_split_index(X, y)
         >>> X1, y1, X2, y2 = splits
         '''
+        feature_indicies = range(X.shape[1])
         if self.num_features is not None:
-            feature_indicies = np.random.choice(range(X.shape[1]), replace=False, size=self.num_features)
-            X = X[:, feature_indicies]
+            feature_indicies = np.random.choice(feature_indicies, replace=False, size=self.num_features)
 
         split_index, split_value, splits = None, None, None
         max_gain = 0
-        for i in xrange(X.shape[1]):
+        for i in feature_indicies:
             values = np.unique(X[:, i])
             if len(values) < 2:
                 continue
@@ -206,6 +205,15 @@ class DecisionTree(object):
         '''
 
         return np.array([self.root.predict_one(row) for row in X])
+
+    def score(self, X, y):
+        '''
+        Return the accuracy of the Random Forest for the given test data and
+        labels.
+        '''
+        predictions = self.predict(X)
+        correctness = y == predictions
+        return float(sum(correctness)) / len(y)
 
     def __str__(self):
         '''
