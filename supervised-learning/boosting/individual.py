@@ -1,11 +1,8 @@
 from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.ensemble import AdaBoostRegressor
+from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor
 from sklearn.datasets import load_boston
 from sklearn.model_selection import train_test_split, cross_val_score, GridSearchCV
 from sklearn.metrics import mean_squared_error
-from sklearn.ensemble.partial_dependence import plot_partial_dependence
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -23,8 +20,8 @@ def main():
 
     regressors = instantiate_regressors()
 
-    # cross_v_scores(regressors, training_data, training_targets)
-    # plot_regressors_staged_error(regressors[1:], training_data, training_targets, test_data, test_targets)
+    cross_v_scores(regressors, training_data, training_targets)
+    plot_regressors_staged_error(regressors[1:], training_data, training_targets, test_data, test_targets)
 
     random_forest_grid = {
         'max_depth': [3, None],
@@ -135,7 +132,6 @@ def stage_score_plot(model, train_x, train_y, test_x, test_y):
     x_space = np.arange(0, len(training_error_at_stage))
     plt.plot(x_space, training_error_at_stage, label='{} training error'.format(model.__class__.__name__), linestyle='--')
     plt.plot(x_space, test_error_at_stage, label='{} testing error'.format(model.__class__.__name__), linestyle='-')
-
 
 
 if __name__ == '__main__':
