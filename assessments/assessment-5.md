@@ -128,9 +128,9 @@ for j, v2 in enumerate(dense_X):
     d = cosine(v, v2)
     print d, i, j
 
-    ```
+```
 
-    Results in:
+Results in:
 
 ```
 
@@ -142,7 +142,7 @@ for j, v2 in enumerate(dense_X):
 0.899993493364 2 3
 ```
 
-> these results look wrong... document 0 is evidently exactly similar to everything? I would say it looks like documents 2 and 3 are the most similar. 
+> these results look wrong... document 0 is evidently exactly similar to everything? I would say it looks like documents 2 and 3 are the most similar.
 
 6. What is wrong with this approach to building my feature matrix?
 
