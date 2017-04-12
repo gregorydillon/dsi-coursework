@@ -158,6 +158,9 @@ Results in:
     ```
 
     Redo the code to fix the issue.
+> ADDED AFTER THE FACT FOR MYSELF. I DID NOT HAVE AN ANSWER FOR THIS QUESTION DURING THE ALLOTTED TIME, IN FACT I HAD TO ASK MOSES TO HELP ME UNDERSTAND WHAT WENT WRONG:
+
+> The answer here is that we have leaked information from the test set into the vectorizer! Because we trained and fit our TfIDF matrix with ALL the test data we have leakage. Instead of what was done, we need to perform the tfidf vectorization AFTER we test_train split. For an example, imagine that one particular word say, "Supercalifragalisticexpialidocious" only appeared in "Test" data -- in the code above that phrases TF-IDF is encoded in both the test and training data: leakage. 
 
 7. Why do we need to do Laplace Smoothing in Naive Bayes?
 
@@ -165,6 +168,16 @@ Results in:
 
 8.  Suppose N = 100 represents a dense sample for a three dimensional feature space.  
 To achieve same density in an eight dimensional feature space, how many points would we need?
+
+> ADDED FOR ME. POST TEST. I LEFT THIS ONE BLANK DURING THE ALLOTTED HOUR.
+
+> The formula to use here is that Density is proportional to N^(1/p) where p is the number of features(dimensions) and N is the number of data points. In our case we want density to remain the same so we can say:
+
+```
+100^1/3 = N^1/8
+=>
+N = 100^(8/3)
+```
 
 9.  The first step in the K-means algorithm involves randomly assigning data points
 to clusters, and as such, only finds local minimums.  How do we typically deal with this?
