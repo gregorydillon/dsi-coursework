@@ -160,7 +160,7 @@ Results in:
     Redo the code to fix the issue.
 > ADDED AFTER THE FACT FOR MYSELF. I DID NOT HAVE AN ANSWER FOR THIS QUESTION DURING THE ALLOTTED TIME, IN FACT I HAD TO ASK MOSES TO HELP ME UNDERSTAND WHAT WENT WRONG:
 
-> The answer here is that we have leaked information from the test set into the vectorizer! Because we trained and fit our TfIDF matrix with ALL the test data we have leakage. Instead of what was done, we need to perform the tfidf vectorization AFTER we test_train split. For an example, imagine that one particular word say, "Supercalifragalisticexpialidocious" only appeared in "Test" data -- in the code above that phrases TF-IDF is encoded in both the test and training data: leakage. 
+> The answer here is that we have leaked information from the test set into the vectorizer! Because we trained and fit our TfIDF matrix with ALL the test data we have leakage. Instead of what was done, we need to perform the tfidf vectorization AFTER we test_train split. For an example, imagine that one particular word say, "Supercalifragalisticexpialidocious" only appeared in "Test" data -- in the code above that word is encoded in both the test and training data's  TF-IDF matrix: leakage. 
 
 7. Why do we need to do Laplace Smoothing in Naive Bayes?
 
